@@ -5,7 +5,7 @@ Local Settings for a lattnet account. #fill in the name of the account you're tw
 #configuration
 MY_CONSUMER_KEY = 'vYQsul814SkVCyv3vH7FY5lmp'
 MY_CONSUMER_SECRET = 'vgbZQxqCix6IuHrbPkWGyqjB45fvBOqeCL9XUwA31V47VZ5Whh'
-MY_ACCESS_TOKEN_KEY = '	923982719771709440-LHGyy9oZ7QqSpSLVxqjZ0JQe7qfQ3Qk'
+MY_ACCESS_TOKEN_KEY = '923982719771709440-LHGyy9oZ7QqSpSLVxqjZ0JQe7qfQ3Qk'
 MY_ACCESS_TOKEN_SECRET = '1xyX1BgUTwd2CtwJQpW7411mL2nsSm0HlSw8qGkZhLqyg'
 
 SOURCE_ACCOUNTS = ["andrewsplattner"] #A list of comma-separated, quote-enclosed Twitter handles of account that you'll generate tweets based on. It should look like ["account1", "account2"]. If you want just one account, no comma needed.
